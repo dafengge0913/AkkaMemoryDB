@@ -1,0 +1,5 @@
+rootProject.name = 'AkkaMemoryDB'
+include 'shared'
+include 'server'
+include 'client'
+
